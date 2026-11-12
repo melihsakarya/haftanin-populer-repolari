@@ -32,7 +32,7 @@ Yıldız sayıları 8 Kasım 2026 anlık görüntüsüdür; bugün farklı olabi
 | 13 Kas 2026 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Evini Claude'la konuşarak yönet. | 6.464 | yakında — 13 Kas 12:30 |
 | 14 Kas 2026 | [floci-io/floci](https://github.com/floci-io/floci) | Hesapsız, bedava yerel AWS. | 31.265 (+3.351) | yakında — 14 Kas 12:30 |
 | 15 Kas 2026 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Claude'a video izlet, kare kare sor. | 20.428 (+624) | yakında — 15 Kas 12:30 |
-| 16 Kas 2026 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Kendi sunucunda müşteri desteği. | 39.566 (+777) | yakında — 16 Kas 12:30 |
+| 16 Kas 2026 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Kendi sunucunda müşteri desteği. | 39.566 (+777) | yakında — 16 Kas 15:30 |
 | 17 Kas 2026 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | Agent'ın bağlamı aylarca sürsün. | 6.132 (+2.150) | yakında — 17 Kas 12:30 |
 | 18 Kas 2026 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Agent'lar için 16 kat hafif tarayıcı. | 41.778 (+905) | yakında — 18 Kas 12:30 |
 | 19 Kas 2026 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Agent'ına pazarlama öğret. | 59.560 (+1.399) | yakında — 19 Kas 12:30 |
