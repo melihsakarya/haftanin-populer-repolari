@@ -8,16 +8,16 @@ Bu depo videolardaki repoların bağlantılı listesidir; bir video yayına giri
 
 | # | Repo | Ne işe yarar | ⭐ toplam (+bu hafta) | Video |
 |---|---|---|---|---|
-| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/sherlock-project--sherlock.md) |  | 112.799 (+10.412) | henüz yüklenmedi |
-| 2 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/google--elephant-goldfish-model.md) |  | 20.036 (+5.060) | henüz yüklenmedi |
-| 3 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/vercel-labs--agent-browser.md) |  | 51.801 (+4.217) | henüz yüklenmedi |
-| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/google-deepmind--mujoco.md) |  | 18.127 (+1.922) | henüz yüklenmedi |
-| 5 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/backnotprop--plannotator.md) |  | 12.139 (+1.719) | henüz yüklenmedi |
-| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/vercel-labs--agent-desktop.md) |  | 24.407 (+4.719) | henüz yüklenmedi |
-| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/leonxlnx--taste-skill.md) |  | 116.477 (+4.234) | henüz yüklenmedi |
-| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/harry0703--moneyprinterturbo.md) |  | 143.907 (+2.920) | henüz yüklenmedi |
-| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/alibaba--open-code-review.md) |  | 52.536 (+2.238) | henüz yüklenmedi |
-| 10 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/copilotkit--openbot.md) |  | 12.499 (+1.966) | henüz yüklenmedi |
+| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/sherlock-project--sherlock.md) | Kullanıcı adını 400+ sosyal ağda arar. | 112.799 (+10.412) | henüz yayında değil |
+| 2 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/google--elephant-goldfish-model.md) | Spec'i fil yazar, japon balığı inceler. | 20.036 (+5.060) | henüz yayında değil |
+| 3 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/vercel-labs--agent-browser.md) | Agent'lar için tarayıcı otomasyonu CLI'ı. | 51.801 (+4.217) | henüz yayında değil |
+| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/google-deepmind--mujoco.md) | Robotik ve yapay zekâ için fizik motoru. | 18.127 (+1.922) | henüz yayında değil |
+| 5 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/backnotprop--plannotator.md) | Agent'ın planına ve diff'ine not düş. | 12.139 (+1.719) | henüz yayında değil |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/vercel-labs--agent-desktop.md) | Agent'a masaüstü uygulamalarını kullandırır. | 24.407 (+4.719) | henüz yayında değil |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/leonxlnx--taste-skill.md) | Agent'a tek tip olmayan site yaptırır. | 116.477 (+4.234) | henüz yayında değil |
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/harry0703--moneyprinterturbo.md) | Konudan otomatik kısa video üretir. | 143.907 (+2.920) | henüz yayında değil |
+| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/alibaba--open-code-review.md) | Git diff'ine satır satır yorum yazar. | 52.536 (+2.238) | henüz yayında değil |
+| 10 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/copilotkit--openbot.md) | Kendi sunucunda yapay zekâ iş arkadaşları. | 12.499 (+1.966) | henüz yayında değil |
 
 Yıldız sayıları 16 Kasım 2026 anlık görüntüsüdür; bugün farklı olabilir. Kaynak: GitHub API, yıldız artışı github.com/trending (haftalık liste).
 
@@ -40,7 +40,7 @@ Pilot seri (11 Kas 2026 – 20 Kas 2026), her gün 12:30 İstanbul'da bir video.
 
 ## Bölüm arşivi
 
-- [2026-W46 — 9–15 Kasım 2026](2026/W46.md) · 10 repo · henüz yüklenmedi
+- [2026-W46 — 9–15 Kasım 2026](2026/W46.md) · 10 repo · henüz yayında değil
 - [2026-W45 — 2–8 Kasım 2026](2026/W45.md) · 10 repo · [video](https://www.youtube.com/watch?v=AkiRwaGZDZA)
 - [Günün Reposu arşivi](gunun-reposu/2026-11.md)
 
