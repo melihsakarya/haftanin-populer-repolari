@@ -4,24 +4,22 @@ GitHub'dan ilginç ve işe yarar açık kaynak repolar, Türkçe anlatımla: **P
 Kanal: https://www.youtube.com/channel/UCkYwpnbEPR26FVjvUKIHoDg · 10 repoluk bölümler: https://www.youtube.com/playlist?list=PLANfQt1sLPy4 · Günün Reposu listesi: https://www.youtube.com/playlist?list=PLZOpwgrnayN8 · Instagram (her gün kısa videolar): https://www.instagram.com/haftaninpopulerrepolari/
 Bu depo videolardaki repoların bağlantılı listesidir; bir video yayına girince bağlantısı buraya gelir. Her reponun Türkçe kurulum ve ilk örnek belgesi (satırdaki "kurulum" bağlantısı) https://github.com/cundaai/kurulum deposundadır. Yanlış ya da eksik bir şey görürseniz issue açın.
 
-## Son bölüm — 2–8 Kasım 2026
-
-[![Son bölümün videosu](https://i.ytimg.com/vi/AkiRwaGZDZA/hqdefault.jpg)](https://www.youtube.com/watch?v=AkiRwaGZDZA)
+## Son bölüm — 9–15 Kasım 2026
 
 | # | Repo | Ne işe yarar | ⭐ toplam (+bu hafta) | Video |
 |---|---|---|---|---|
-| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/pingdotgg--t3code.md) | Agent'ları telefondan, tarayıcıdan, masaüstünden yönet. | 52.155 (+17.100) | [bölüm 6:46](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=406s) |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/mattpocock--skills.md) | Gerçek mühendisler için küçük, birleştirilebilir skill'ler. | 318.323 (+9.664) | [bölüm 5:57](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=357s) |
-| 3 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/nvidia--auto-ontology.md) | Kurumsal veri için anlamsal bilgi grafiği. | 10.143 (+9.044) | [bölüm 5:10](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=310s) · [Short](https://www.youtube.com/shorts/2Z2xcm1QLTw) |
-| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/d4vinci--scrapling.md) | Python web kazıma framework'ü. | 99.708 (+8.712) | [bölüm 4:24](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=264s) · [Short](https://www.youtube.com/shorts/Q6Awbea3fgg) |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/thedotmack--claude-mem.md) | Oturumlar arası kalıcı hafıza. | 114.774 (+7.482) | [bölüm 3:38](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=218s) · [Short](https://www.youtube.com/shorts/-a-clfq4rfw) |
-| 6 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/milind-soni--openmausbot.md) | Açık kaynak Grok Bot alternatifi. | 17.948 (+7.077) | [bölüm 2:54](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=174s) · [Short](https://www.youtube.com/shorts/5PgJ5pEkO9c) |
-| 7 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/nutlope--hallmark.md) | Yapay zekâ yapımı görünen arayüzü reddeden tasarım skill'i. | 50.755 (+6.624) | [bölüm 2:14](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=134s) · [Short](https://www.youtube.com/shorts/-m5YUCDQnpE) |
-| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/donchitos--claude-code-game-studios.md) | Tek oturumu oyun stüdyosu gibi örgütler. | 36.873 (+5.719) | [bölüm 1:33](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=93s) · [Short](https://www.youtube.com/shorts/RMQdFi5y9DE) |
-| 9 | [github/spec-kit](https://github.com/github/spec-kit) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/github--spec-kit.md) | Spec-Driven Development araç kutusu. | 148.635 (+4.280) | [bölüm 0:51](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=51s) · [Short](https://www.youtube.com/shorts/o6uJDgnMWIA) |
-| 10 | [blader/humanizer](https://github.com/blader/humanizer) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini siler. | 66.305 (+3.067) | [bölüm 0:15](https://www.youtube.com/watch?v=AkiRwaGZDZA&t=15s) · [Short](https://www.youtube.com/shorts/3jUF7s1JXho) |
+| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/sherlock-project--sherlock.md) |  | 112.799 (+10.412) | henüz yüklenmedi |
+| 2 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/google--elephant-goldfish-model.md) |  | 20.036 (+5.060) | henüz yüklenmedi |
+| 3 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/vercel-labs--agent-browser.md) |  | 51.801 (+4.217) | henüz yüklenmedi |
+| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/google-deepmind--mujoco.md) |  | 18.127 (+1.922) | henüz yüklenmedi |
+| 5 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/backnotprop--plannotator.md) |  | 12.139 (+1.719) | henüz yüklenmedi |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/vercel-labs--agent-desktop.md) |  | 24.407 (+4.719) | henüz yüklenmedi |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/leonxlnx--taste-skill.md) |  | 116.477 (+4.234) | henüz yüklenmedi |
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/harry0703--moneyprinterturbo.md) |  | 143.907 (+2.920) | henüz yüklenmedi |
+| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/alibaba--open-code-review.md) |  | 52.536 (+2.238) | henüz yüklenmedi |
+| 10 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/copilotkit--openbot.md) |  | 12.499 (+1.966) | henüz yüklenmedi |
 
-Yıldız sayıları 8 Kasım 2026 anlık görüntüsüdür; bugün farklı olabilir. Kaynak: GitHub API, yıldız artışı github.com/trending (haftalık liste).
+Yıldız sayıları 16 Kasım 2026 anlık görüntüsüdür; bugün farklı olabilir. Kaynak: GitHub API, yıldız artışı github.com/trending (haftalık liste).
 
 ## Günün Reposu
 
@@ -30,8 +28,8 @@ Yıldız sayıları 8 Kasım 2026 anlık görüntüsüdür; bugün farklı olabi
 | 11 Kas 2026 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/juliusbrussee--caveman.md) | Agent'ın token'ını üçte bire indir. | 118.837 (+1.842) | [izle](https://www.youtube.com/watch?v=mjaNUVKMbwQ) |
 | 12 Kas 2026 | [localsend/localsend](https://github.com/localsend/localsend) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/localsend--localsend.md) | İnternetsiz, sunucusuz dosya paylaşımı. | 98.253 (+1.106) | [izle](https://www.youtube.com/watch?v=1IylBcEQ17w) |
 | 13 Kas 2026 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/homeassistant-ai--ha-mcp.md) | Evini Claude'la konuşarak yönet. | 6.464 | [izle](https://www.youtube.com/watch?v=C645eu5sxtg) |
-| 14 Kas 2026 | [floci-io/floci](https://github.com/floci-io/floci) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/floci-io--floci.md) | Hesapsız, bedava yerel AWS. | 31.265 (+3.351) | yakında — 14 Kas 12:30 |
-| 15 Kas 2026 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/bradautomates--claude-video.md) | Claude'a video izlet, kare kare sor. | 20.428 (+624) | yakında — 15 Kas 12:30 |
+| 14 Kas 2026 | [floci-io/floci](https://github.com/floci-io/floci) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/floci-io--floci.md) | Hesapsız, bedava yerel AWS. | 31.265 (+3.351) | [izle](https://www.youtube.com/watch?v=s1W4tKSSr-A) |
+| 15 Kas 2026 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/bradautomates--claude-video.md) | Claude'a video izlet, kare kare sor. | 20.428 (+624) | [izle](https://www.youtube.com/watch?v=3Am4HNJmWA0) |
 | 16 Kas 2026 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/chatwoot--chatwoot.md) | Kendi sunucunda müşteri desteği. | 39.566 (+777) | yakında — 16 Kas 15:30 |
 | 17 Kas 2026 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/ranxianglei--billion-context.md) | Agent'ın bağlamı aylarca sürsün. | 6.132 (+2.150) | yakında — 17 Kas 12:30 |
 | 18 Kas 2026 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/lightpanda-io--browser.md) | Agent'lar için 16 kat hafif tarayıcı. | 41.778 (+905) | yakında — 18 Kas 12:30 |
@@ -42,6 +40,7 @@ Pilot seri (11 Kas 2026 – 20 Kas 2026), her gün 12:30 İstanbul'da bir video.
 
 ## Bölüm arşivi
 
+- [2026-W46 — 9–15 Kasım 2026](2026/W46.md) · 10 repo · henüz yüklenmedi
 - [2026-W45 — 2–8 Kasım 2026](2026/W45.md) · 10 repo · [video](https://www.youtube.com/watch?v=AkiRwaGZDZA)
 - [Günün Reposu arşivi](gunun-reposu/2026-11.md)
 
