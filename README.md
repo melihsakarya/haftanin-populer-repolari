@@ -34,7 +34,7 @@ Yıldız sayıları 16 Kasım 2026 anlık görüntüsüdür; bugün farklı olab
 | 17 Kas 2026 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/ranxianglei--billion-context.md) | Agent'ın bağlamı aylarca sürsün. | 6.132 (+2.150) | [izle](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
 | 18 Kas 2026 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/lightpanda-io--browser.md) | Agent'lar için 16 kat hafif tarayıcı. | 41.778 (+905) | [izle](https://www.youtube.com/watch?v=sY2kfpbK-p8) |
 | 19 Kas 2026 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/coreyhaines31--marketingskills.md) | Agent'ına pazarlama öğret. | 59.560 (+1.399) | [izle](https://www.youtube.com/watch?v=0-jhhrzIuw8) |
-| 20 Kas 2026 | [we-promise/sure](https://github.com/we-promise/sure) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/we-promise--sure.md) | Kişisel finans, kendi sunucunda. | 11.673 (+558) | yakında — 20 Kas 12:30 |
+| 20 Kas 2026 | [we-promise/sure](https://github.com/we-promise/sure) · [kurulum](https://github.com/cundaai/kurulum/blob/main/repolar/we-promise--sure.md) | Kişisel finans, kendi sunucunda. | 11.673 (+558) | [izle](https://www.youtube.com/watch?v=7z32awD3FYM) |
 
 Pilot seri (11 Kas 2026 – 20 Kas 2026), her gün 12:30 İstanbul'da bir video. Yıldız sayıları seçim günündeki (10 Kasım 2026) anlık görüntüdür.
 
